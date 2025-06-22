@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta http-equiv="content-language" content="es" />
+    <meta http-equiv="content-type"     content="text/html;" />
+    <meta name="viewport" content="width=device-width, initial-scale=0.5"  />  
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="GOOGLEBOT" content="NOARCHIVE" />
+    <meta name="GOOGLEBOT" content="NOSNIPPET" />
+    <meta name="GOOGLEBOT" content="NOINDEX, NOFOLLOW" />
+    <meta charset="UTF-8">
+<style>
+
+h1{
+    color:cadetblue;
+}
+
+@import url(//db.onlinewebfonts.com/c/f1db3900031cbb95843807b1e74f155a?family=Neutra+Text+TF+Light);
+
+@font-face {
+    font-family: "Neutra Text TF Light"; 
+    src: url("//db.onlinewebfonts.com/t/f1db3900031cbb95843807b1e74f155a.eot"); 
+    src: url("//db.onlinewebfonts.com/t/f1db3900031cbb95843807b1e74f155a.eot?#iefix") format("embedded-opentype"), 
+    url("//db.onlinewebfonts.com/t/f1db3900031cbb95843807b1e74f155a.woff2") format("woff2"), 
+    url("//db.onlinewebfonts.com/t/f1db3900031cbb95843807b1e74f155a.woff") format("woff"), 
+    url("//db.onlinewebfonts.com/t/f1db3900031cbb95843807b1e74f155a.ttf") format("truetype"), 
+    url("//db.onlinewebfonts.com/t/f1db3900031cbb95843807b1e74f155a.svg#Neutra Text TF Light") format("svg"); 
+} 
+       /* Restablecer márgenes y paddings */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            width: 100%;
+            background-color: white;
+        }
+
+        /* Tabla básica para estructurar los datos */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px auto;
+        }
+
+        th, td {
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2; /* Fondo para los encabezados */
+        }
+
+        /* Ajuste de alineación */
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        p {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+</style>
+
+  <title>Listado Hoteles - Mi Viaje Europamundo></title>
+
+
+
+<script src="../JScript/XMLResponse.js" type="text/javascript"></script>
+</head>
+
+<body style="text-align:left;">
+      <div style="position:center;">
+        
+              <!-- MMB: Hay que poner el tamaño "a pelo" porque el formato Word en ASP no reconoce bien los tamaños mediante porcentaje -->
+              <img  SRC="https://www.europamundo-online.com/Imagenes/logoMiViajeMail_es.jpg" alt="Información detallada de mi viaje con Europamundo" width="600" height="200">
+        
+                <img src="https://www.europamundo-online.com/Imagenes/OperadoresTrans/Novo Logo CVC Principal Azul.gif" max-width="600" max-height="200" >
+            
+
+      </div>
+        <div class="content">
+            <!-- INICIO CONTENIDO -->
+            <p style="font-size:16px;">A seguinte relação de hotéis é a confirmada para sua reserva, no entanto devido à nossa estrutura de viagens pode ocorrer que os nomes de todos os hotéis atribuídos não estejam disponíveis antes da saída de seu roteiro, mas não se preocupe,<strong>todos os seus serviços estão plenamente confirmados de acordo com nosso Catálogo. A Europamundo garante todos os seus hotéis e a categoria prevista.</strong></p>
+            <p style="font-size:16px;">Recomendamos a impressão desta lista 48 horas antes de sair de viagem, e aos seus familiares lhes sugerimos fazer um acompanhamento posterior em Minha Viagem durante o circuito caso não encontrem alguns dos hotéis atribuídos.</p>
+
+            <table style="position:relative;">
+            <tr >
+                <!-- MMB: Celda de ciudad -->
+                <td  style="width: 100%; vertical-align: top; font-size:large">
+                    <strong>COSTA AZUL</strong>
+                </td>
+                <td >
+            </table>
+            <table>
+                           <!-- MMB: Tabla de hoteles finales -->
+                                    <tr>
+                                        <td >
+                                        Datas :&nbsp;
+                                                08/10/2024&nbsp;-&nbsp;09/10/2024&nbsp;(Toda a Estadia)
+                                            <br />
+                                           
+                                                BB NICE AEROPORT ARENAS&nbsp;***
+                                                <br />
+                                                Endereço:&nbsp;108 BD REN&#201; CASSIN, 06200 NICE, FRANCIA
+                                                <br />
+                                                Código postal:&nbsp;06200
+                                                <br />
+                                                número de telefone:&nbsp;33&nbsp;483764843
+                                        </td>
+                                    </tr>
+
+    
+        </td>
+    </tr>
+    </table>
+
+            <table style="position:relative;">
+            <tr >
+                <!-- MMB: Celda de ciudad -->
+                <td  style="width: 100%; vertical-align: top; font-size:large">
+                    <strong>VENEZA</strong>
+                </td>
+                <td >
+            </table>
+            <table>
+                           <!-- MMB: Tabla de hoteles finales -->
+                                    <tr>
+                                        <td >
+                                        Datas :&nbsp;
+                                                09/10/2024&nbsp;-&nbsp;11/10/2024&nbsp;(Toda a Estadia)
+                                            <br />
+                                           
+                                                SIRIO&nbsp;****
+                                                <br />
+                                                Endereço:&nbsp;VIA CIRCONVALLAZIONE 109
+                                                <br />
+                                                Código postal:&nbsp;0
+                                                <br />
+                                                número de telefone:&nbsp;39&nbsp;41984022
+                                        </td>
+                                    </tr>
+
+    
+        </td>
+    </tr>
+    </table>
+
+            <table style="position:relative;">
+            <tr >
+                <!-- MMB: Celda de ciudad -->
+                <td  style="width: 100%; vertical-align: top; font-size:large">
+                    <strong>ROMA</strong>
+                </td>
+                <td >
+            </table>
+            <table>
+                           <!-- MMB: Tabla de hoteles finales -->
+                                    <tr>
+                                        <td >
+                                        Datas :&nbsp;
+                                                11/10/2024&nbsp;-&nbsp;14/10/2024&nbsp;(Toda a Estadia)
+                                            <br />
+                                           
+                                                THE CAESAR&nbsp;****
+                                                <br />
+                                                Endereço:&nbsp;VIA DELLA PISANA, 374, CP: 00163
+                                                <br />
+                                                Código postal:&nbsp;00163
+                                                <br />
+                                                número de telefone:&nbsp;39&nbsp;686293391
+                                        </td>
+                                    </tr>
+
+    <br />
+        </td>
+    </tr>
+    </table>
+
+            <table style="position:relative;">
+            <tr >
+                <!-- MMB: Celda de ciudad -->
+                <td  style="width: 100%; vertical-align: top; font-size:large">
+                    <strong>ATENAS</strong>
+                </td>
+                <td >
+            </table>
+            <table>
+**</br>* Hotel pendente de atribuição.Possíveis hotéis: *</br>
+                                    <br />PRESIDENT&nbsp;****
+                                    <br />
+                                    Endereço:&nbsp;43 KIFISSIAS AVE
+                                    <br />
+                                    Código postal:&nbsp;11523
+                                    <br />
+                                    número de telefone:&nbsp;30 106989000     
+                                    <br /><br />
+                                
+                                    <br />NOVOTEL ATHENES&nbsp;****
+                                    <br />
+                                    Endereço:&nbsp;4 MICHAIL VODA STR CP 104 39 ATENAS
+                                    <br />
+                                    Código postal:&nbsp;104 39
+                                    <br />
+                                    número de telefone:&nbsp;30 2108200700     
+                                    <br /><br />
+                                
+                                    <br />SKYLARK&nbsp;****
+                                    <br />
+                                    Endereço:&nbsp;3, MARIKAS KOTOPOULI STR, ATHINA 104 31, GRECIA
+                                    <br />
+                                    Código postal:&nbsp;104 31
+                                    <br />
+                                    número de telefone:&nbsp;30 2144056400     
+                                    <br /><br />
+                                
+        </td>
+    </tr>
+    </table>
+
+            <table style="position:relative;">
+            <tr >
+                <!-- MMB: Celda de ciudad -->
+                <td  style="width: 100%; vertical-align: top; font-size:large">
+                    <strong>KALAMBAKA</strong>
+                </td>
+                <td >
+            </table>
+            <table>
+**</br>* Hotel pendente de atribuição.Possíveis hotéis: *</br>
+                                    <br />AMALIA KALAMBACA&nbsp;****
+                                    <br />
+                                    Endereço:&nbsp;42200, THEOPETRA KALAMBAKA GRECIA
+                                    <br />
+                                    Código postal:&nbsp;42200
+                                    <br />
+                                    número de telefone:&nbsp;30 2432072216     
+                                    <br /><br />
+                                
+                                    <br />KOSTA FAMISSI&nbsp;****
+                                    <br />
+                                    Endereço:&nbsp;TRIKALON STR. 144
+                                    <br />
+                                    Código postal:&nbsp;42200
+                                    <br />
+                                    número de telefone:&nbsp;30 2432079192     
+                                    <br /><br />
+                                
+        </td>
+    </tr>
+    </table>
+
+            <table style="position:relative;">
+            <tr >
+                <!-- MMB: Celda de ciudad -->
+                <td  style="width: 100%; vertical-align: top; font-size:large">
+                    <strong>ATENAS</strong>
+                </td>
+                <td >
+            </table>
+            <table>
+**</br>* Hotel pendente de atribuição.Possíveis hotéis: *</br>
+                                    <br />NOVOTEL ATHENES&nbsp;****
+                                    <br />
+                                    Endereço:&nbsp;4 MICHAIL VODA STR CP 104 39 ATENAS
+                                    <br />
+                                    Código postal:&nbsp;104 39
+                                    <br />
+                                    número de telefone:&nbsp;30 2108200700     
+                                    <br /><br />
+                                
+                                    <br />SKYLARK&nbsp;****
+                                    <br />
+                                    Endereço:&nbsp;3, MARIKAS KOTOPOULI STR, ATHINA 104 31, GRECIA
+                                    <br />
+                                    Código postal:&nbsp;104 31
+                                    <br />
+                                    número de telefone:&nbsp;30 2144056400     
+                                    <br /><br />
+                                
+        </td>
+    </tr>
+    </table>
+
+
+      	<br />
+	    <table>
+            <tr>
+                <td></td>
+	            <td>*Lembramos que a Europamundo permite somente 1 mala principal por pessoa e no máximo de 30 quilos. A bagagem adicional não será transportada.<br /><br /></td>
+	            <td></td>
+            </tr>
+  	    </table>         
+    <div class="section-down">
+        <p><b>CONSELHOS GERAIS:</b> Por favor, antes de viajar lhe <b>recomendamos:</b></p>
+        <p><b><strong>-Imprimir sua lista de hotéis atribuídos,</strong> 48 horas antes de sua saída que encontrará no guia "Lista de Hotéis"</b></p>
+        <p><b><strong>-Revisar seus dados:</strong> nomes, números de voo e Traslados  (se corresponder), telefones de contato, em seu voucher, dentro da guia Dados / passageiros</p>
+        <p><b>-<strong>Ler com atenção</strong> nossos conselhos e condições gerais no guia correspondente</p>
+    </div>
+</div>
+</body>
+
+</html>
